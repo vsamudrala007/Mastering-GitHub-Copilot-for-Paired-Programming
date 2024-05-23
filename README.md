@@ -56,3 +56,7 @@ Our team produces other courses! Check out:
 - [Web Dev for Beginners](https://aka.ms/webdev-beginners?WT.mc_id=academic-113596-abartolo)
 - [IoT for Beginners](https://aka.ms/iot-beginners?WT.mc_id=academic-113596-abartolo)
 - [XR Development for Beginners](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-113596-abartolo)
+
+## Additional resources:
+- https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/?WT.mc_id=academic-113596-abartolo
+- https://learn.microsoft.com/en-us/training/modules/introduction-copilot-javascript/?WT.mc_id=academic-113596-abartolo
